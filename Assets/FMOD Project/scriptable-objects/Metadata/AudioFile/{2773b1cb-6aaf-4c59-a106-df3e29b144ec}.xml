@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{2773b1cb-6aaf-4c59-a106-df3e29b144ec}">
+		<property name="assetPath">
+			<value>S23_SFX_Footsteps_Gravel_Loafers_Loops_Walk_Normal.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>13.423999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{dd227db5-5f21-49c5-8398-c0c904e1d1ee}</destination>
+		</relationship>
+	</object>
+</objects>
